@@ -1,0 +1,1 @@
+Exercises in this part of the course cover Visual Studio Code editor, more functions, listst, definite iteration, print statement formatting, and more string and lists.
