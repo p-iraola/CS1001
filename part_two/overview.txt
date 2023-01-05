@@ -1,0 +1,1 @@
+In this part the course and exercises cover programming terminology, conditionals, combining conditionals, and simple loops.
