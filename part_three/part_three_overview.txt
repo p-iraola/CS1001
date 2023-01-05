@@ -1,0 +1,1 @@
+Exercises in this part of the course cover loops with conditions, working with strings, more loops, and defining basic functions.
