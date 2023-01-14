@@ -1,0 +1,1 @@
+Exercises in this part of the course cover reading files, writing files, handling errors, and local and global variables.
